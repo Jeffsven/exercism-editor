@@ -33,17 +33,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Resistor Color", "Resistor 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wizards and Warriors", "Wizards and Warriors\Wizards and Warriors.csproj", "{37A315C4-3762-4F1E-A0EE-8CB19E0C93AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scale Generator", "Scale Generator\Scale Generator.csproj", "{954DAB10-4E38-4EE7-98A9-27695B109431}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scale Generator", "Scale Generator\Scale Generator.csproj", "{954DAB10-4E38-4EE7-98A9-27695B109431}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProteinTranslation", "ProteinTranslation\ProteinTranslation.csproj", "{016756C9-40E1-495F-ADB8-5DDB4AB5FB4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProteinTranslation", "ProteinTranslation\ProteinTranslation.csproj", "{016756C9-40E1-495F-ADB8-5DDB4AB5FB4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proverb", "Proverb\Proverb.csproj", "{1E329DEE-5F4F-4392-A608-88412724BB16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proverb", "Proverb\Proverb.csproj", "{1E329DEE-5F4F-4392-A608-88412724BB16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beer Song", "Beer Song\Beer Song.csproj", "{54BF8E9C-4CB8-45C3-9DEC-8B9CFC3FBD0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beer Song", "Beer Song\Beer Song.csproj", "{54BF8E9C-4CB8-45C3-9DEC-8B9CFC3FBD0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bob", "Bob\Bob.csproj", "{8B71A6A5-6F21-421B-81ED-DFA328DF774B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bob", "Bob\Bob.csproj", "{8B71A6A5-6F21-421B-81ED-DFA328DF774B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log Analysis", "Log Analysis\Log Analysis.csproj", "{13D5C582-251B-4F66-B100-C03AAA331CC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Log Analysis", "Log Analysis\Log Analysis.csproj", "{13D5C582-251B-4F66-B100-C03AAA331CC6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flatten Array", "Flatten Array\Flatten Array.csproj", "{692B0365-4A36-47B5-9C01-F3E3E21811B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Space Age", "Space Age\Space Age.csproj", "{CE37DA6C-3F46-4B9A-AB02-673350B22E2A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tracks on Tracks on Tracks", "Tracks on Tracks on Tracks\Tracks on Tracks on Tracks.csproj", "{561673BD-04C2-478A-A475-5D03E6C03C45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secret Handshake", "Secret Handshake\Secret Handshake.csproj", "{74C62C3A-626C-4045-9B91-D74CDD425B0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -131,6 +139,22 @@ Global
 		{13D5C582-251B-4F66-B100-C03AAA331CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13D5C582-251B-4F66-B100-C03AAA331CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13D5C582-251B-4F66-B100-C03AAA331CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{692B0365-4A36-47B5-9C01-F3E3E21811B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692B0365-4A36-47B5-9C01-F3E3E21811B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692B0365-4A36-47B5-9C01-F3E3E21811B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692B0365-4A36-47B5-9C01-F3E3E21811B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE37DA6C-3F46-4B9A-AB02-673350B22E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE37DA6C-3F46-4B9A-AB02-673350B22E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE37DA6C-3F46-4B9A-AB02-673350B22E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE37DA6C-3F46-4B9A-AB02-673350B22E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{561673BD-04C2-478A-A475-5D03E6C03C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561673BD-04C2-478A-A475-5D03E6C03C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561673BD-04C2-478A-A475-5D03E6C03C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561673BD-04C2-478A-A475-5D03E6C03C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74C62C3A-626C-4045-9B91-D74CDD425B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C62C3A-626C-4045-9B91-D74CDD425B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C62C3A-626C-4045-9B91-D74CDD425B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C62C3A-626C-4045-9B91-D74CDD425B0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -155,6 +179,9 @@ Global
 		{54BF8E9C-4CB8-45C3-9DEC-8B9CFC3FBD0D} = {BFEF1A0D-F454-402A-AF95-F40BE3DAFA74}
 		{8B71A6A5-6F21-421B-81ED-DFA328DF774B} = {BFEF1A0D-F454-402A-AF95-F40BE3DAFA74}
 		{13D5C582-251B-4F66-B100-C03AAA331CC6} = {BFEF1A0D-F454-402A-AF95-F40BE3DAFA74}
+		{692B0365-4A36-47B5-9C01-F3E3E21811B1} = {BFEF1A0D-F454-402A-AF95-F40BE3DAFA74}
+		{CE37DA6C-3F46-4B9A-AB02-673350B22E2A} = {BFEF1A0D-F454-402A-AF95-F40BE3DAFA74}
+		{74C62C3A-626C-4045-9B91-D74CDD425B0E} = {BFEF1A0D-F454-402A-AF95-F40BE3DAFA74}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D65D2462-7959-41D0-8E87-CEA458FADFB7}
